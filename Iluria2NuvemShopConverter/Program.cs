@@ -1,23 +1,157 @@
-﻿using Newtonsoft.Json;
+﻿using Iluria2NuvemShopConverter.Dominio;
+using Iluria2NuvemShopConverter.Strategies;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Dynamic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Iluria2NuvemShopConverter
 {
     class Program
     {
-        static void Main(string[] args)
+        static Dictionary<string, int> ContaQuantidadeRepeticoesRegistros(string arquivo)
+        {
+            var dic1 = new Dictionary<string, int>();
+
+            using (var reader = new StreamReader($@"C:\temp\{ arquivo }"))
+            {
+                int i = 0;
+                string linha = "";
+                while ((linha = reader.ReadLine()) != null)
+                {
+                    i++;
+
+                    if (i == 1)
+                        continue;
+
+                    var aux = linha.Split(';');
+
+                    var id = aux[0];
+                    var estoque = aux[5];
+
+                    if (estoque == "Esgotado")
+                        continue;
+
+
+                    if (!dic1.ContainsKey(id))
+                        dic1.Add(id, 0);
+
+                    dic1[id]++;
+                }
+            }
+
+            return dic1;
+        }
+
+        static void CompararQuantidadeArquivos()
+        {
+            var estrategia = new MermaidStrategy();
+            var dic1 = ContaQuantidadeRepeticoesRegistros("novo-arquivo.csv");
+            var dic2 = ContaQuantidadeRepeticoesRegistros(estrategia.NomeArquivoIluria);
+
+            var asd = new List<string>();
+
+            foreach (var item in dic2)
+            {
+                if (!dic1.ContainsKey(item.Key))
+                    asd.Add(item.Key);
+            }
+
+            var teste = dic2.Where(x => x.Value > 1);
+        }
+
+        static void TrataArquivoFinal()
         {
             var dic = new Dictionary<string, dynamic>();
+            string header = "";
+            int i = 0;
+            using (var reader = new StreamReader($@"C:\temp\produtos-mermaid_.csv"))
+            {
+                string linha = "";
+                while ((linha = reader.ReadLine()) != null)
+                {
+                    i++;
 
-            using (var reader = new StreamReader(@"C:\temp\iluria-relatorio-de-estoque-dos-produtos.csv"))
+                    if (i == 1)
+                    {
+                        header = linha;
+                        continue;
+                    }
+
+                    var aux = linha.Split(';');
+
+                    var id = aux[0];
+                    var estoque = aux[5];
+
+                    if (estoque == "Esgotado")
+                        continue;
+
+
+                    if (!dic.ContainsKey(id))
+                    {
+                        dynamic registro = new ExpandoObject();
+                        registro.Informacoes = new List<dynamic>();
+
+                        dic.Add(id, registro);
+                    }
+
+                    var nome = aux[1];
+
+                    if (nome.Contains(id))
+                        nome = nome.Substring(0, nome.IndexOf(id)).Trim().Replace("-", "").Trim();
+
+                    dic[id].Nome = nome.ToTitleCase();
+                    //dic[id].Url = nome.RemoveAccents().Replace(' ', '-').ToLower();
+                    dic[id].Descricao = "";
+                    dic[id].Tags = "";
+                    dic[id].Categorias = "";
+
+
+                    var preco = "0,00";
+
+                    if (!string.IsNullOrEmpty(aux[6]))
+                        preco = aux[6];
+
+                    dic[id].Informacoes.Add(new { Estoque = estoque, Preco = preco, Variacao1 = aux[2], Variacao2 = aux[3], Variacao3 = aux[4] });
+                }
+            }
+            using (var fileStream = new FileStream("C:\\temp\\produtos-mermaid.csv", FileMode.OpenOrCreate, FileAccess.ReadWrite))
+            {
+                using (var sw = new StreamWriter(fileStream, Encoding.UTF8))
+                {
+                    sw.WriteLine(header);
+
+                    foreach (var item in dic)
+                    {
+                        foreach (var info in item.Value.Informacoes)
+                        {
+                            sw.WriteLine(string.Format("{0};{1};{2};{3};{4};{5};{6};;",
+                               item.Key,
+                               item.Value.Nome,
+                               info.Variacao1,
+                               info.Variacao2,
+                               info.Variacao3,
+                               info.Estoque,
+                               info.Preco));
+                        }
+                    }
+                }
+            }
+        }
+
+        static void GeraArquivoFinal()
+        {
+            IStrategy estrategia = null;
+            estrategia = new MermaidStrategy();
+            //estrategia = new AliaStrategy();
+
+            var dic = new Dictionary<string, dynamic>();
+
+            using (var reader = new StreamReader($@"C:\temp\{ estrategia.NomeArquivoIluria }"))
             {
                 var i = 0;
 
@@ -46,20 +180,24 @@ namespace Iluria2NuvemShopConverter
                         dic.Add(id, registro);
                     }
 
-                    dic[id].Url = RemoveDiacritics(aux[1]).Replace(' ', '-').ToLower();
-                    dic[id].Nome = aux[1];
+                    dic[id].Url = aux[1].RemoveAccents().Replace(' ', '-').ToLower();
+                    dic[id].Nome = aux[1].ToTitleCase();
                     dic[id].Descricao = "";
                     dic[id].Tags = "";
+                    dic[id].Categorias = "";
 
-                    var preco = Convert.ToDecimal(aux[6]).ToString("0.00").Replace(",", ".");
+                    var preco = "0.00";
+
+                    if (!string.IsNullOrEmpty(aux[6]))
+                        preco = Convert.ToDecimal(aux[6]).ToString("0.00").Replace(",", ".");
 
                     dic[id].Informacoes.Add(new { Estoque = estoque, Preco = preco, Variacao1 = aux[2], Variacao2 = aux[3], Variacao3 = aux[4] });
                 }
             }
 
-            foreach (var arquivo in new string[] { "produtos-1.json", "produtos-2.json", "produtos-3.json" })
+            foreach (var arquivo in estrategia.NomesArquivosJson)
             {
-                using (StreamReader re = new StreamReader(arquivo))
+                using (StreamReader re = new StreamReader($"{ estrategia.NomeLoja}\\{arquivo}"))
                 {
                     using (JsonTextReader jsonReader = new JsonTextReader(re))
                     {
@@ -71,35 +209,57 @@ namespace Iluria2NuvemShopConverter
                         {
                             if (dic.ContainsKey(item.codigo))
                             {
-                                dic[item.codigo].Descricao = item.descricao.Replace("\n", "<br />");
-                                dic[item.codigo].Tags = item.tags.Substring(0, item.tags.LastIndexOf(',')).Trim();
-
-                                var i = 1;
-
-                                foreach (var imagem in item.images)
+                                if (!string.IsNullOrEmpty(item.tabelaMedidas))
                                 {
-                                    string diretorio = $@"C:\temp\produtos\{dic[item.codigo].Url}";
+                                    var diretorio = $@"c:\temp\{ estrategia.NomeLoja }\tabelamedidas\";
 
                                     if (!Directory.Exists(diretorio))
                                         Directory.CreateDirectory(diretorio);
 
-                                    var urlImagem = imagem.Replace("loadThumb('", "");
-                                    urlImagem = urlImagem.Replace("');", "");
-                                    urlImagem = "https:" + urlImagem;
-
-
-                                    using (WebClient client = new WebClient())
-                                        client.DownloadFile(new Uri(urlImagem), $@"{diretorio}\\imagem-{i}.jpg");
-
-                                    i++;
+                                    if (estrategia.BaixarImagens)
+                                        using (var client = new WebClient())
+                                            client.DownloadFile(new Uri(item.tabelaMedidas), $@"{diretorio}\\{ dic[item.codigo].Url }.jpg");
                                 }
+
+                                dic[item.codigo].Descricao = item.descricao.Replace("\n", "<br />");
+
+                                if (!string.IsNullOrEmpty(item.tags))
+                                    dic[item.codigo].Tags = item.tags.Substring(0, item.tags.LastIndexOf(',')).Trim();
+
+                                if (estrategia.BaixarImagens)
+                                {
+                                    var i = 1;
+
+                                    foreach (var imagem in item.images)
+                                    {
+                                        string diretorio = $@"C:\temp\{ estrategia.NomeLoja}\produtos\{dic[item.codigo].Url}";
+
+                                        if (!Directory.Exists(diretorio))
+                                            Directory.CreateDirectory(diretorio);
+
+                                        var urlImagem = imagem.Replace("loadThumb('", "");
+                                        urlImagem = urlImagem.Replace("');", "");
+                                        urlImagem = "https:" + urlImagem;
+
+                                        try
+                                        {
+                                            using (WebClient client = new WebClient())
+                                                client.DownloadFile(new Uri(urlImagem), $@"{diretorio}\\imagem-{i}.jpg");
+                                        }
+                                        catch (UriFormatException) { }
+
+                                        i++;
+                                    }
+                                }
+
+                                dic[item.codigo].Categorias = estrategia.OrganizaCategoriasProdutos(item.categorias);
                             }
                         }
                     }
                 }
             }
 
-            var arquivoFinal = @"C:\temp\produtos-nuvemshop.csv";
+            var arquivoFinal = $@"C:\temp\{ estrategia.NomeArquivoNuvemShop}";
 
             using (var fileStream = new FileStream(arquivoFinal, FileMode.OpenOrCreate, FileAccess.ReadWrite))
             {
@@ -115,8 +275,8 @@ namespace Iluria2NuvemShopConverter
 
                             linha = linha.Replace("{Identificador URL}", item.Value.Url);
                             linha = linha.Replace("{Nome}", item.Value.Nome);
-                            linha = linha.Replace("{Categorias}", "");
-                            linha = linha.Replace("{Nome da variação 1}", "");
+                            linha = linha.Replace("{Categorias}", item.Value.Categorias);
+                            linha = linha.Replace("{Nome da variação 1}", "Tamanho");
                             linha = linha.Replace("{Valor da variação 1}", informacao.Variacao1);
                             linha = linha.Replace("{Nome da variação 2}", "");
                             linha = linha.Replace("{Valor da variação 2}", informacao.Variacao2);
@@ -142,34 +302,12 @@ namespace Iluria2NuvemShopConverter
             }
         }
 
-        static string RemoveDiacritics(string text)
+
+        static void Main(string[] args)
         {
-            var normalizedString = text.Normalize(NormalizationForm.FormD);
-            var stringBuilder = new StringBuilder();
-
-            foreach (var c in normalizedString)
-            {
-                var unicodeCategory = CharUnicodeInfo.GetUnicodeCategory(c);
-                if (unicodeCategory != UnicodeCategory.NonSpacingMark)
-                {
-                    stringBuilder.Append(c);
-                }
-            }
-
-            return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
+            TrataArquivoFinal();
+            //CompararQuantidadeArquivos();
+            GeraArquivoFinal();
         }
-    }
-
-    public class Rootobject
-    {
-        public Produto[] produtos { get; set; }
-    }
-
-    public class Produto
-    {
-        public string codigo { get; set; }
-        public string descricao { get; set; }
-        public string tags { get; set; }
-        public string[] images { get; set; }
     }
 }

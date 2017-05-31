@@ -1,0 +1,6956 @@
+﻿[
+  {
+    "codigo": "3C444F",
+    "descricao": "Super confortável!\n\n Calça feita em uma sarja com elastano. Calça com cintura alta e corte skinny!\n\nFabricante: Lady Rock\nTecido: sarja",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C5E0.jpg",
+    "tags": "calça cintura alta, lady rock, calça rosa, calça jeans justa, calça jeans rosa, jeans lady rock, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3C444F/8FD001/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3C444F/8FD005/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3BFE2D",
+    "descricao": "Perfeito para deixar seu look ainda mais cute e sensual!\nUm mio de top! Top feito em renda com estampa de flores, detalhe de renda nas costas.\n\nTecido: Renda",
+    "tabelaMedidas": "",
+    "tags": "top renda, top florido, top sutiã, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3BFE2D/8F1E91/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3BFE2D/8F1E90/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3BFEC5",
+    "descricao": "Charme e sensualidade\nOpção perfeita para finalizar o seu look com um estilo mais sensual e feminino! Aproveite as alcinhas do verão para deixar o seu top a mostra!\n\nTecido: renda",
+    "tabelaMedidas": "",
+    "tags": "top renda, top renda tiras, top preto, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3BFEC5/8F2064/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3BFEC5/8F206C/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3B3C6E",
+    "descricao": "Macaquinho Malha Estampado\nPeça indispensável para o verão. Macaquinho feito em malha, com forro e costas aberta com a alça cruzada.\n\ntecido: viscolycra",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C4F6.jpg",
+    "tags": "macaquinho, macacquinho alça, macaquinho estampado, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3B3C6E/8D44E2/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3B3C6E/8D44E4/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3B3C6E/8D44E6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3B3C6E/8D44E8/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3B3C6E/8D44EA/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3984BA",
+    "descricao": "Saia Midi Preta\nSaia no comprimento midi, com fenda frontal, cós largo com elástico firme, feita em malha grossa estilo bandagem!\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F7.jpg",
+    "tags": "saia midi, saia midi preta, saia midi malha, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984BA/8CA4F5/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984BA/892087/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984BA/892084/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984BA/89208B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984BA/8CA4F7/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3ACE67",
+    "descricao": "Calça Flare Alfaitaria Preta\nCalça Flare, estilo alfaiataria, acabamento impecável! Detalhe de fenda e botões na parte de trás. Para mulheres modernas e de atitude um look moderno!\n\nTecido: Alfaiataria",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C4F8.jpg",
+    "tags": "calça preta, calça flare preta, calça alfaiataria preta, look barato, calça flare preta barata, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3ACE67/8C3982/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3ACE67/8C3989/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3ACE67/8C3986/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3ACE67/8C3985/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "39BC07",
+    "descricao": "Macacão Pantacourt\nEssa super trend da temporada agora disponível na Aliá! Vem ficar mais moderna e arrasadora com a gente!\nMacacão com calça pantalona no compriento Midi, feito em viscose super leve, alças finas e zíper atrás.\nTecido: Viscose",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F2.jpg",
+    "tags": "calça pantacourt, macacão pantacourt, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC07/89A61E/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC07/89A621/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC07/89A625/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC07/89A627/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3A5238",
+    "descricao": "Cropped Vermelho Malha\nCropped vermelho, duas camadas, uma fica estilo Top faixa, a outra você passa sobre um braço para o efeito como da foto! \n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F8.jpg",
+    "tags": "cropped, cropped vermelho, cropped colorido, top vermelho, blusa cropped, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A5238/8CA4EF/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A5238/8CA4E1/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A5238/8CA4E6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A5238/8CA4EC/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3A3452",
+    "descricao": "Charme e elegância\nSaia comprimento midi, malha maravilhosa, fenda frontal.\n\nTecido: malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F7.jpg",
+    "tags": "saia midi, saia midi justa, saia midi malha, saia midi vermelha, saia vermelha, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A3452/8AC980/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3A3452/8AC982/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "39F302",
+    "descricao": "Estilo puro! \n\nColar Shocker Resina perfeito para combinar com um look mais clássico!",
+    "tabelaMedidas": "",
+    "tags": "shockers, colar, colar resina, colar rosa, ",
+    "images": [ "editPictures()" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3984C8",
+    "descricao": "Cropped Preto Malha\nCropped preto, duas camadas, uma fica estilo Top faixa, a outra você passa sobre um braço para o efeito como da foto! \n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F8.jpg",
+    "tags": "cropped, cropped preto, cropped malha, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984C8/8CA699/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984C8/8CA69E/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984C8/89209F/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984C8/8920A1/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3984C8/8920A5/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3962E9",
+    "descricao": "Essencial, descolado e super confortável!\n\nA peça para você compor mil e um looks! Feito em malha, elástico no cós e detalhe de babadinho na barra.\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F9.jpg",
+    "tags": "shorts, shorts preto, shorts malha, shorts boxeador, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3962E9/88CC51/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3962E9/88D7E2/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3962E9/88CC53/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3962E9/88CC52/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "39EE28",
+    "descricao": "Shorts Jeans Destroyed\nShorts cintura alta, com detalhes de rasgos e amassados. Bolso na parte de trás!\n\nFabricante: Lady Rock\n\nTecido: jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2FC.jpg",
+    "tags": "shorts jeans, shorts jeans rasgado, shorts jeans destroyed, lady rock, produtos lady rock, jeans lady rock, shorts hotpants, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39EE28/8A214C/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39EE28/8D0228/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39EE28/8A2151/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39EE28/8D022B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39EE28/8D022E/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "396977",
+    "descricao": "Um super fofo vestidinho!\nCaimento perfeito e estampa de elefantinhos que a gente AMA! Para os dias de verão é a escolha perfeita! Vestido feito em viscose, com babado na barra e detalhes de viés na cor pink.\n\nTecido: viscose",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F3.jpg",
+    "tags": "vestido, vestido estampado, vestido estampa elefante, vestido verão, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/396977/88DCD6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/396977/88DCD9/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/396977/88DCDB/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/396977/88DCDE/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/396977/88DCE2/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "39BC2A",
+    "descricao": "Macacão Pantacourt\nEssa super trend da temporada agora disponível na Aliá! Vem ficar mais modera e arrasadora com a gente!\nMacacão com calça pantalona no compriento Midi, feito em viscose super leve, alças finas e zíper atrás.\n\nTecido: Viscose",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2F2.jpg",
+    "tags": "pantacourt, calça pantacourt, macacão pantacourt, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC2A/89A666/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/39BC2A/89A669/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "38FD7F",
+    "descricao": "Veste super bem!\n\nCalça cintura alta caramelo feita em sarja, com strech. Corte skinny e bolsos na parte de trás!\n\nFabricante: Lady Rock\n\nTecido: Sarja",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2E6.jpg",
+    "tags": "calça caramelo, calça jeans caramelo, calça cintura alta, hotpants, lady rock, lady rock jeans, produtos lady rock, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38FD7F/87D5D5/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38FD7F/87D5D6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38FD7F/87D5D2/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38FD7F/87D5D7/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "38A654",
+    "descricao": "Super confortável!\n\nCalça strech feita em uma sarja com muito elastano, mal parece jeans! Com cintura alta, e corte skinny.\n\nFabricante: Lady Rock\n\nTecido: strech",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1C2E8.jpg",
+    "tags": "calça jeans cintura alta, calça cintura alta, lady rock, calça jeans elastano, produtos lady rock, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A654/87035C/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A654/87035F/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A654/870364/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A654/870368/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "376BAF",
+    "descricao": "Aquela peça INDISPENSÁVEL! \n\nMolinho, e todo style!\n\nTecido: Malha",
+    "tabelaMedidas": "",
+    "tags": "top, top com tiras, top malha, top tiras rosa, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/376BAF/841100/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/376BAF/84122D/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "38A66E",
+    "descricao": "Cute Patches Aliá\nAdesivos termocolantes aplicáveis com ferro sobre tecidos e roupas.",
+    "tabelaMedidas": "",
+    "tags": "patch, comprar patches, ",
+    "images": [ "editPictures()", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A66E/870391/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/38A66E/870392/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "36C914",
+    "descricao": "OMG!!! Sim, é lindo demais!\n\nFeito em viscose, ele lembra um macaquinho! Tem elástico na cintura, manga flare com aplicação de guippir, sobreposição na saia na parte da frente, e costas \"abertas\".\n\nTecido: Viscose",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BFBD.jpg",
+    "tags": "vestido, vestido azul, vestido manga flare, vestido inverno, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/36C914/927836/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/36C914/92783A/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/36C914/92783D/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/36C914/927841/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/36C914/828B09/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3340CE",
+    "descricao": "Um body para chamar de SEU!\nEles estão super em alta! Com malha super firme, decote trançado com detalhes em metal dourado, fechamento com colchetes (não tem bojo).\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BBA1.jpg",
+    "tags": "body, body preto, body trançado, body manga longa, body decote, blusa trançada, ",
+    "images": [ ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "34F0FA",
+    "descricao": "Estilosa e arrojada\nPense em um vestido super style e ao mesmo tempo super feminino! É ele! \n\nTecido: Viscose",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BDF4.jpg",
+    "tags": "vestido, vestido caramelo, vestido com renda, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/34F0FA/9BF238/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/34F0FA/9BF23B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/34F0FA/9BF23F/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/34F0FA/9BF242/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/34F0FA/9BF246/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "335807",
+    "descricao": "Meio blazer, meio spencer, com recorte despojado, pode deixar seu look social mais descontraído ou seu look descontraído com um toque social! Um must have!\n\nTecido: Poliester e elastano (malha grossa)",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BBD7.jpg",
+    "tags": "casaco, blazer, blazer bordo, casaco bordo, spencer, spencer bordo, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/335807/7A6303/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/335807/995133/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/335807/7A33AD/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/335807/7A33AA/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "33411B",
+    "descricao": "Indispensável!\nEla é super charmosa, seita em malha super firme, fica justinha! Tem elátisco na cintura e o detalhe da fenda com recorte diagonal faz toda a diferença! Use com o Body Allen que fica parecendo um vestido.\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BBA0.jpg",
+    "tags": "saia preta, mini saia preta, saia com fenda, saia preta fenda, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33411B/9CB96D/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33411B/79FB2F/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33411B/79FB30/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "334088",
+    "descricao": "Sabe aquele dress babado, confortável, básico e arrasador?\n\nÉ esse! Na versão bordô, super atual, a cor da estação! Feito em bandagem \"molinha\", regata e com decote profundo com detahes em tiras.\n\nTecido: malha bandagem",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BB9F.jpg",
+    "tags": "vestido bordo, vestido decotado, vestido decote, vestido bandagem, vestido inverno, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/334088/9390FF/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/334088/939103/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/334088/939109/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/334088/93910E/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "33F5B5",
+    "descricao": "Um sonho de vestido!\nCom as mangas longas e recorte flare, o vestido El Cortez fica soltinho no corpo. Tem uma modelagem ótima e o mix de estampas nos tons da estação, floral mais poi, está apaixonante!\n\nTecido: Visocse",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BDF3.jpg",
+    "tags": "vestido, vestido estampado, vestido manga flare, vestido manga longa, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33F5B5/7BB184/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33F5B5/7BB181/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33F5B5/7BB182/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/33F5B5/7BB183/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "3340A0",
+    "descricao": "Sabe aquele dress babado, confortável, básico e arrasador?\n\nÉ esse! Na versão pretinho básico, super atual! Feito em bandagem \"molinha\", regata e com decote profundo com detahes em tiras.\n\nTecido: malha bandagem",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BB9F.jpg",
+    "tags": "vestido preto, tubinho preto, vestido preto decote, vestido bandagem, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3340A0/939112/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3340A0/939116/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3340A0/939119/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/3340A0/93911B/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "2F613E",
+    "descricao": "Super Style!\n\nDetalhe na fenda lateral com ilhós. Ideal para usar com shortinhos ou calça.\nTecido: Crepe",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1BA0C.jpg",
+    "tags": "regata, mini vest, vestido bordo, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2F613E/706A23/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2F613E/706A26/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2F613E/706A27/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2F613E/706A29/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "2D17FE",
+    "descricao": "A peça coringa que tem que no armário!\nCropped tipo t-shirt com manguinha e larguinho.\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1B413.jpg",
+    "tags": "cropped malha, cropped larguinho, cropped basico, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D17FE/6AF98E/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D17FE/6AF988/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D17FE/6AF98B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D17FE/6AF9A7/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D17FE/6AF9A8/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "2D1836",
+    "descricao": "A peça coringa que tem que no armário!\nCropped tipo t-shirt com manguinha e larguinho.\n\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1B413.jpg",
+    "tags": "cropped basico, cropped larguinho, cropped manga, cropped baisc, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D1836/6AF9E9/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D1836/6AF9EA/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D1836/6AF9EB/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D1836/6AF9EC/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2D1836/6AF9ED/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "26CC65",
+    "descricao": "Para curtir o mar em grande estilo!\nT-shirt com estampa localizada de âncora frontal e manga double layer azul.\n\n\nTecido: Algodão",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD62.jpg",
+    "tags": "t-shirt âncora, t-shirt street, t-shirt estampa localizada, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/26CC65/5C15BA/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/26CC65/5CA9D0/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/26CC65/5CA9D3/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "253A8C",
+    "descricao": "Cropped do tipo Tem Que Ter!\n\nCropped em corte evasê com detalhe de rendinha na barra, alcinha regulável.\nTecido: Malha",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD68.jpg",
+    "tags": "cropped renda, top cropped, cropped malha, cropped soltinho, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/253A8C/584188/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/253A8C/584189/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/253A8C/58418A/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "25DA17",
+    "descricao": "Tem que ter!\nA queridinha de estação agora aqui na Aliá!\n\nTecido: Sarja com stetch",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD5F.jpg",
+    "tags": "calça rasgo no joelho, jeans rasgo joelho, calça rasgada, aliá brand, verão 2016, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25DA17/615381/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25DA17/615382/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "278364",
+    "descricao": "Praticidade e modernidade! \nQue tal montar uma produção descontraída? A CARA do fim-de-semana! Vale apostar nessa tendência.\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD6A.jpg",
+    "tags": "jardineira, jardineira jeans, jeans, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/278364/5DAD22/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/278364/5DAD1C/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/278364/5DAD1E/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "24AE45",
+    "descricao": "Pretinha básica para uma vida com muita elegância!\nSaia tamanho midi feita em malha. Um charme!\n\nTecido: Malha Vicolycra",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AA53.jpg",
+    "tags": "saia midi, saia midi preta, saia babado, saia peplum midi, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/24AE45/56E371/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/24AE45/56E374/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "25FBA3",
+    "descricao": "TEM QUE TER!\nShortinho destroyed super estiloso e confortável!\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD5B.jpg",
+    "tags": "shorts jeans destroyed, shorts jeans, shorts jeans claro, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBA3/5C2190/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBA3/5A0DDC/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBA3/5A0DD8/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBA3/5A0DD6/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "2782F4",
+    "descricao": "Praticidade e modernidade!\nQue tal montar uma produção descontraída? A CARA do fim-de-semana! Vale apostar nessa tendência.\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD6A.jpg",
+    "tags": "jardineira, jardineira jeans, jeans, jardineira jeans clara, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2782F4/5DAC08/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2782F4/5DAC0B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2782F4/5DAC0D/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2782F4/5DAC0F/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "26434F",
+    "descricao": "Mega estilosa!\nCintura alta, com bastante elastano.\n\nTecido: Sarja com elastano",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD60.jpg",
+    "tags": "calça flare, calça flare branca, calça branca, calça flare preta, calça jeans, verão 2016, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/26434F/70833F/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/26434F/5AC2E6/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "25FB8A",
+    "descricao": "TEM QUE TER!\nShortinho destroyed super estiloso e confortável!\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD5B.jpg",
+    "tags": "shorts jeans destroyed, shorts jeans, , ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB8A/5C1D50/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB8A/5A0DA3/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB8A/5C1DEC/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB8A/5A0DAA/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "27D8F6",
+    "descricao": "Um sonho de calça!\n\nCalça Jeans na cor clássica que amamos! Cintura alta que favorece muito nosso corpo, e ainda possui um flare super elegante. É de babar e querer usar todos os dias.\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD61.jpg",
+    "tags": "calça jeans, calça jeans flare, calça jeans cintura alta, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/27D8F6/672489/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/27D8F6/67248B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/27D8F6/67248D/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/27D8F6/67248F/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "25FBB2",
+    "descricao": "TEM QUE TER!\nShortinho super estiloso e confortável!\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD5A.jpg",
+    "tags": "shorts jeans branco, shorts jeans, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBB2/5C21FB/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBB2/5A0DF6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FBB2/5C21FF/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "25FB43",
+    "descricao": "Peça chave da estação\n\nShorts saia super estiloso!\n\nTecido: Jeans",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1AD5C.jpg",
+    "tags": "shorts saia jeans, shorts saia, shorts saia destroyed, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB43/5C2278/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB43/5C228C/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB43/5C227D/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB43/5A0D12/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/25FB43/5C2284/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1F04E1",
+    "descricao": "Destaque o charme dos seus braços!\n\nCamisa linda feita de Chiffon com abertura na altura dos braços. Super elegante e confortável!\n\nTecido: Chiffon",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1A612.jpg",
+    "tags": "camisa chiffon, camisa manga bufante, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1F04E1/49455B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1F04E1/4942D6/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1F04E1/4942D2/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1F04E1/4942CF/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "182C52",
+    "descricao": "Super estilo!\nPara um look despojado!\n\nTecido: Crepe",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/19EDB.jpg",
+    "tags": "saia longa, saia longa fenda, saia crepe, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/182C52/38DD94/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/182C52/440595/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/182C52/38DD95/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/182C52/38DD93/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/182C52/38DD97/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "2015C6",
+    "descricao": "Charme e leveza!\nShorts em jacquard aveludado.",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1A60A.jpg",
+    "tags": "shorts jacquard, shorts boho, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2015C6/56DE28/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2015C6/56DE2A/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/2015C6/4BC9A5/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "F1CE6",
+    "descricao": "Charmosa até os pés\n \n\nCalça legging maravilhosa, corte feito com comprimento das pernas mais longo para ser usada por dentro da sandália.\n\nTecido: Suplex ( Sta. Constância)",
+    "tabelaMedidas": "",
+    "tags": "leggingdepézinho, modafeminina, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/F1CE6/232880/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/F1CE6/232881/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/F1CE6/232883/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/F1CE6/23A059/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/F1CE6/23287F/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "180284",
+    "descricao": "Conforto, frescor e estilo\n\nTudo que queremos!",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/19EDD.jpg",
+    "tags": "vestido ano novo, vestido branco, roupa ano novo, frete grátis, aliá brand, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/180284/387777/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/180284/3877DE/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/180284/387778/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/180284/387779/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/180284/38777A/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": true
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "23116C",
+    "descricao": "Essa é aquela coringa!\n\nFeita em suplex, é uma peça simples mas que torna o seu look sofisticado sem pretensão. Comprimento Midi.\nTecido: Suplex",
+    "tabelaMedidas": "",
+    "tags": "saia midi, saia suplex, saia babado, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/23116C/52F2DA/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/23116C/52F2DB/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "22FF96",
+    "descricao": "Para completar o seu style!",
+    "tabelaMedidas": "",
+    "tags": "colar boho, colar indígena, colar com penas, ",
+    "images": [ "editPictures()", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/22FF96/52C8CE/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/22FF96/52C8CF/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1EE01A",
+    "descricao": "Um amor!\n\nLenço estampado.",
+    "tabelaMedidas": "",
+    "tags": "lenço de corações, lenço estampado, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1EE01A/48EF3E/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1EE01A/48EF41/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1EE01A/48EF43/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1E02B9",
+    "descricao": "Charme e elegância\n\nA sensação da estação é o cinto faixa Obi de couro. Marca a cintura e dá o toque final no seu look!\nTecido: Couro Sintético",
+    "tabelaMedidas": "",
+    "tags": "cinto faixa, cinto obi, cinto couro, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1E02B9/4E1E6A/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1E02B9/46DDBE/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1E02B9/4E1E6B/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1E02B9/4E1E6C/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1D3971",
+    "descricao": "Turbante de cabeça, ideal para compor um look style!\n\nTecido: Plush",
+    "tabelaMedidas": "",
+    "tags": "turbante de cabeça, faixa de cabeça, acessórios, ",
+    "images": [ "editPictures()" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1D3A68",
+    "descricao": "Turbante de cabeça ideal para compor um look style!\n\nTecido: Malha",
+    "tabelaMedidas": "",
+    "tags": "turbante de cabelo, faixa de cabelo, acessórios, ",
+    "images": [ "editPictures()" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1456D0",
+    "descricao": "A amada calça flare, com tecido diferenciado e cheia de estilo!\n\nTecido: Suplex",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/1992E.jpg",
+    "tags": "calça flare, calça flare lycra, calça flare neoprene, calça bailarina, calça boho, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1456D0/2F7D94/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1456D0/2F7D8E/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1456D0/2F7D92/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1456D0/2F7D90/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/1456D0/3050C1/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "1BDF68",
+    "descricao": "Turbante de cabeça em malha.",
+    "tabelaMedidas": "",
+    "tags": "turbante de cabeça, turbante, faixa de cabelo, moda feminina, acessórios, ",
+    "images": [ "editPictures()" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "147239",
+    "descricao": "Um amor!\n\nCalça de sarja com certa elasticidade, cintura alta, levemente flare, lavagem especial e toda rasgada.\n\nObs.: Com o uso ela pode lacear (não muito).\nTecido: Sarja",
+    "tabelaMedidas": "https://s3.amazonaws.com/img.iluria.com/product/size_chart/19EEF.jpg",
+    "tags": "calça jeans, calça jeans destroyed, calça jeans rosa, calça jeans amarela, calça rasgada, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/147239/2FBFCD/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/147239/2FBFCF/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/147239/2FBFCB/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/147239/2FBFCE/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/147239/2FBFD1/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": true
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": true,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": true,
+        "subCategorias": [ ]
+      }
+    ]
+  },
+  {
+    "codigo": "106857",
+    "descricao": "Moletom hiper feminino, flanelado, para arrasar na Copa quentinha!",
+    "tabelaMedidas": "",
+    "tags": "moletom copa, moletom feminino, blusa copa, ",
+    "images": [ "loadThumb('//s3.amazonaws.com/img.iluria.com/product/106857/2638BB/550xN.jpg');", "loadThumb('//s3.amazonaws.com/img.iluria.com/product/106857/2638BC/550xN.jpg');" ],
+    "categorias": [
+      {
+        "nome": "NEWS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "COLEÇÕES",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Aliá*Army",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Outono Inverno 2017",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Spring Summer",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "PRODUTOS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Acessórios",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Body",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calças",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Casacos",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Coletes",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Cropped",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Macacão",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saias",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Top",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "T-shirts",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Vestidos",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "BLUSAS",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      },
+      {
+        "nome": "JEANS",
+        "pertenceCategoria": false,
+        "subCategorias": [
+          {
+            "nome": "Blusas",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Calça",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Saia",
+            "pertenceSubCategoria": false
+          },
+          {
+            "nome": "Shorts",
+            "pertenceSubCategoria": false
+          }
+        ]
+      },
+      {
+        "nome": "LIQUIDAÇÃO",
+        "pertenceCategoria": false,
+        "subCategorias": [ ]
+      }
+    ]
+  }
+]
